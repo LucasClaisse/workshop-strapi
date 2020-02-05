@@ -126,3 +126,7 @@ So, you can go back to your `Content Type Builder` and add a field to the `Profi
 ***Don't forget to save***
 
 Now you should be able to link one of your previously created profile to the account you created in `Exercice I`
+
+### Exercice VII
+
+On this exercice, you'll have to try to retrieve a `Profile` from your `user`. The profile is now contain in the `user`, so only 1 request should be needed.
